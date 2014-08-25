@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Rachael's Blog]]></title>
-  <link href="http://rserur.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Test | Rachael's Blog]]></title>
+  <link href="http://rserur.github.io/blog/categories/test/atom.xml" rel="self"/>
   <link href="http://rserur.github.io/"/>
   <updated>2014-08-25T16:38:52-04:00</updated>
   <id>http://rserur.github.io/</id>
